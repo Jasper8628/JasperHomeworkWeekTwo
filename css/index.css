@@ -1,0 +1,46 @@
+body{
+    background-image:url("trees.png");
+}
+img{
+    float:left;
+}
+p{
+    font-size:22px;
+    line-height: 45px;
+}
+img{
+    margin-right:20px;
+    margin-top:15px;
+}
+h2{
+    color:teal;
+    
+}
+
+.navbar-brand{
+    background-color: teal;
+
+}
+h1{
+    color:white;
+}
+.wrapper{
+    background-color: white;
+    margin-top:20px;
+    margin-bottom:20px;
+    
+}
+footer{
+    border-top: 5px solid teal;
+}
+h4{
+    margin-left:-20px;
+    margin-right:-20px;
+    color:white;
+    background-color: teal;
+    position:relative;
+    bottom:-90%;
+}
+button{
+    margin:15px;
+}
